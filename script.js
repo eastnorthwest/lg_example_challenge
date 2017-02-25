@@ -52,6 +52,7 @@ document.getElementById("set_object_text").addEventListener("click", function()
     setStatus();
 })
 
+/*
 document.getElementById("manual").addEventListener("click", function()
 {
     var c = document.getElementById("manual_color").value;
@@ -72,7 +73,7 @@ document.getElementById("manual").addEventListener("click", function()
     }
     document.getElementById("color_status").innerHTML = 'Custom';
 })
-
+*/
 
 function setStatus()
 {
